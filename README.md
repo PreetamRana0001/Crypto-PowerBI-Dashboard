@@ -5,6 +5,7 @@ A real-time crypto portfolio dashboard has been developed, tracking investments 
 # Problem Statement
 
 Before this dashboard, crypto investors faced several challenges:
+
     • Manual Tracking: Investors had to manually update and track coin prices, quantities, and portfolio values, leading to errors and inefficiency.
     • Lack of Real-Time Data: Most solutions did not provide live updates, making it hard to react to market changes.
     • No INR Support: Many platforms showed values in USD or other currencies, making it difficult for Indian investors to assess real returns.
@@ -14,27 +15,33 @@ Before this dashboard, crypto investors faced several challenges:
 
 # Solution Features & How Problems Were Solved
 
-1. Real-Time Data Integration
-    • Live API links fetch the latest prices and historical data for all coins, ensuring the dashboard always reflects current market conditions.
-    • Daily refresh provides up-to-date information for the last 365 days.
-2. Comprehensive Coin Coverage
-    • The dashboard supports up to 600 coins with logos, allowing users to analyze a wide range of assets.
-    • Slicers enable quick filtering and selection of specific coins for detailed analysis.
-3. INR-Based Calculations
-    • All values, including investment, current value, profit/loss, and ROI, are displayed in INR, making it highly relevant for Indian users.
-4. Advanced Analytics with DAX
-    • DAX functions are used for complex calculations such as:
-        ◦ Coin-wise and total ROI
-        ◦ Net profit/loss
-        ◦ Historical price trends
-        ◦ Dynamic card values using SELECTEDVALUE for context-sensitive metrics
-5. User-Friendly Visualization
-    • Interactive charts show price trends, coin quantities, and portfolio distribution.
-    • Cards display key metrics like coin price, rank, current value, holding, net profit, ROI, ATH (All-Time High), ATL (All-Time Low), and buy price.
-    • Pie and bar charts provide visual summaries of holdings and performance.
-6. Historical Performance Tracking
-    • The dashboard includes a full year (365 days) of historical price and performance data, enabling users to analyze trends and make informed decisions.
-7. Portfolio Summary
+    1. Real-Time Data Integration
+          • Live API links fetch the latest prices and historical data for all coins, ensuring the dashboard always reflects current market conditions.
+          • Daily refresh provides up-to-date information for the last 365 days.
+
+    2. Comprehensive Coin Coverage
+          • The dashboard supports up to 600 coins with logos, allowing users to analyze a wide range of assets.
+          • Slicers enable quick filtering and selection of specific coins for detailed analysis.
+
+    3. INR-Based Calculations
+          • All values, including investment, current value, profit/loss, and ROI, are displayed in INR, making it highly relevant for Indian users.
+
+    4. Advanced Analytics with DAX
+          • DAX functions are used for complex calculations such as:
+          ◦ Coin-wise and total ROI
+          ◦ Net profit/loss
+          ◦ Historical price trends
+          ◦ Dynamic card values using SELECTEDVALUE for context-sensitive metrics
+
+    5. User-Friendly Visualization
+          • Interactive charts show price trends, coin quantities, and portfolio distribution.
+          • Cards display key metrics like coin price, rank, current value, holding, net profit, ROI, ATH (All-Time High), ATL (All-Time Low), and buy price.
+          • Pie and bar charts provide visual summaries of holdings and performance.
+
+    6. Historical Performance Tracking
+        • The dashboard includes a full year (365 days) of historical price and performance data, enabling users to analyze trends and make informed decisions.
+
+    7. Portfolio Summary
   
 # The  page aggregates total investment, current value, ROI, and net profit/loss for the entire portfolio, giving a clear overview at a glance.
 
