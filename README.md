@@ -2,7 +2,7 @@
 This is a real-world Power BI dashboard created to track and analyze a personal cryptocurrency investment portfolio. It provides both a summary view of the full portfolio and detailed insights into individual coins.
 
 
-Key Insights from the Crypto Portfolio Dashboard
+# Key Insights from the Crypto Portfolio Dashboard
     1. Portfolio Diversification
         ◦ Spreading investments across 17 coins reduces risk and cushions the impact of any single coin’s volatility.
     2. Real-Time Profit/Loss Tracking
