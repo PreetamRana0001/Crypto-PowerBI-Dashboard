@@ -84,8 +84,16 @@ This crypto portfolio dashboard transforms the way investors manage and analyze 
 # Screenshot 
 
    [The Portfolio]
-   ![Alt Text](https://github.com/PreetamRana0001/Crypto-PowerBI-Dashboard/blob/main/INR%20Crypto%20Dashboard.png?raw=true)
-
+      ![Alt Text](https://github.com/PreetamRana0001/Crypto-PowerBI-Dashboard/blob/main/INR%20Crypto%20Dashboard.png?raw=true)
+      ![Alt Text](https://github.com/PreetamRana0001/Crypto-PowerBI-Dashboard/blob/main/INR%20Crypto%20Dashboard2.png?raw=true)
+      ![Alt Text](https://github.com/PreetamRana0001/Crypto-PowerBI-Dashboard/blob/main/INR%20Crypto%20Dashboard3.png?raw=true)
+      ![Alt Text](https://github.com/PreetamRana0001/Crypto-PowerBI-Dashboard/blob/main/INR%20Crypto%20Dashboard4.png?raw=true) 
+      ![Alt Text](https://github.com/PreetamRana0001/Crypto-PowerBI-Dashboard/blob/main/INR%20Crypto%20Dashboard5.png?raw=true) 
+      ![Alt Text](https://github.com/PreetamRana0001/Crypto-PowerBI-Dashboard/blob/main/INR%20Crypto%20Dashboard6.png?raw=true) 
+      ![Alt Text](https://github.com/PreetamRana0001/Crypto-PowerBI-Dashboard/blob/main/INR%20Crypto%20Dashboard7.png?raw=true) 
+      ![Alt Text](https://github.com/PreetamRana0001/Crypto-PowerBI-Dashboard/blob/main/INR%20Crypto%20Dashboard8.png?raw=true) 
+      ![Alt Text](https://github.com/PreetamRana0001/Crypto-PowerBI-Dashboard/blob/main/INR%20Crypto%20Dashboard9.png?raw=true) 
+      
 
 
 
