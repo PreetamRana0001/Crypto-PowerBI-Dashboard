@@ -81,5 +81,11 @@ Conclusion
 This crypto portfolio dashboard transforms the way investors manage and analyze their assets. By solving the key problems of manual tracking, lack of real-time data, and complex calculations, it empowers users with actionable insights and a seamless, INR-based experience tailored for the Indian market.
 
 
+# Screenshot 
+
+   The Portfolio
+   https://github.com/PreetamRana0001/Crypto-PowerBI-Dashboard/blob/main/INR%20Crypto%20Dashboard.png
+
+
 
 
