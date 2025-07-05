@@ -84,7 +84,7 @@ This crypto portfolio dashboard transforms the way investors manage and analyze 
 # Screenshot 
 
    [The Portfolio]
-   [Alt Text](https://github.com/PreetamRana0001/Crypto-PowerBI-Dashboard/blob/main/INR%20Crypto%20Dashboard.png)
+   [Alt Text](https://github.com/PreetamRana0001/Crypto-PowerBI-Dashboard/blob/main/INR%20Crypto%20Dashboard.png?raw=true)
 
 
 
