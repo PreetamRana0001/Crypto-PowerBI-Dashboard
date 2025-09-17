@@ -128,7 +128,15 @@ Investors can **track portfolio evolution**, make **data-driven decisions**, and
 # Screenshot9        
       
   ![Alt Text](https://github.com/PreetamRana0001/Crypto-PowerBI-Dashboard/blob/main/INR%20Crypto%20Dashboard9.png?raw=true) 
-      
+           
+# Screenshot10
+
+ ![Alt Text](https://github.com/PreetamRana0001/Crypto-PowerBI-Dashboard/blob/main/INR%20Crypto%20Dashboard10.png?raw=true) 
+
+# Screenshot11
+
+ ![Alt Text](https://github.com/PreetamRana0001/Crypto-PowerBI-Dashboard/blob/main/INR%20Crypto%20Dashboard11.png?raw=true) 
+
 
 
 
