@@ -1,8 +1,8 @@
-# 💹 Crypto Portfolio Dashboard  
+# 💹 Crypto Portfolio Dashboard 🚀  
 **By Preetam Rana**  
 
-🚀 **A 💯 fully automatic, real-time crypto portfolio dashboard** tracking **17 coins** in **INR (₹)**.  
-**Built for a real client from Uttarakhand**, providing **actionable insights, predictive forecasts, and automated 365-day historical tracking** , Designed for a **real client from Uttarakhand**.
+**A 💯 fully automatic, real-time crypto portfolio dashboard** tracking **17+ coins** in **INR (₹)**.  
+**Built for a real client from Uttarakhand**, providing **actionable insights, predictive forecasts, and automated 365-day historical tracking**.  
 
 ---
 
@@ -11,25 +11,25 @@ Crypto investors faced several challenges before this dashboard:
 
 | ❌ Problem | 🧐 Description |
 |------------|----------------|
-| 📝 Manual Tracking | Prices, quantities, and portfolio values were manually updated → prone to errors & inefficiency. |
-| ⏱️ Lack of Real-Time Data | Most solutions didn’t provide live updates → delayed decisions. |
-| 💰 No INR Support | Platforms in USD/other currencies → difficult for Indian investors. |
-| 📉 Limited Historical Analysis | Tracking portfolio value over the past year was cumbersome. |
-| 🧮 Complex Calculations | ROI, net profit/loss required manual spreadsheets. |
-| 📈 Scalability Issues | Managing hundreds of coins accurately was nearly impossible. |
+| 📝 Manual Tracking | Prices, quantities, and portfolio values were manually updated → prone to errors & inefficiency |
+| ⏱️ Lack of Real-Time Data | Most solutions didn’t provide live updates → delayed decisions |
+| 💰 No INR Support | Platforms in USD/other currencies → difficult for Indian investors |
+| 📉 Limited Historical Analysis | Tracking portfolio value over the past year was cumbersome |
+| 🧮 Complex Calculations | ROI, net profit/loss required manual spreadsheets |
+| 📈 Scalability Issues | Managing hundreds of coins accurately was nearly impossible |
 
 ---
 
-## 💡 **Solution & Key Features (Fully Automatic!)**  
+## 💡 Solution & Key Features (Fully Automatic!)  
 
 | ⚡ Feature | ✨ How It Solves Problems |
 |------------|--------------------------|
-| **🔄 Real-Time Data Integration** | Live API fetches latest prices & historical data → **fully automatic daily refresh** with 365-day portfolio trends. |
-| **💎 Comprehensive Coin Coverage** | Supports up to **600 coins**; slicers allow filtering & selection of specific coins. |
-| **💰 INR-Based Calculations** | Investment, current value, profit/loss, ROI all in **Indian Rupees**. |
-| **📊 Advanced DAX Analytics** | Coin-wise & total ROI, net profit/loss, historical trends, dynamic cards, automated 365-day tracking. |
-| **🎨 User-Friendly Visualization** | Interactive charts, cards, pie & bar charts summarizing holdings and performance. |
-| **📋 Portfolio Summary** | Aggregates total investment, current value, ROI & net profit/loss for **instant insights**. |
+| 🔄 **Real-Time Data Integration** | Live API fetches latest prices & historical data → **fully automatic daily refresh** with 365-day portfolio trends |
+| 💎 **Comprehensive Coin Coverage** | Supports up to **600 coins**; slicers allow filtering & selection of specific coins |
+| 💰 **INR-Based Calculations** | Investment, current value, profit/loss, ROI all in **Indian Rupees** |
+| 📊 **Advanced DAX Analytics** | Coin-wise & total ROI, net profit/loss, historical trends, dynamic cards, automated 365-day tracking |
+| 🎨 **User-Friendly Visualization** | Interactive charts, cards, pie & bar charts summarizing holdings and performance |
+| 📋 **Portfolio Summary** | Aggregates total investment, current value, ROI & net profit/loss for **instant insights** |
 
 **🔥 Highlights:**  
 - ✅ **Fully Automatic** – No manual updates required  
@@ -41,12 +41,12 @@ Crypto investors faced several challenges before this dashboard:
 ---
 
 ## 📊 Key Insights  
-- **Diversified Portfolio:** 17 coins reduce risk & volatility  
-- **Real-Time Profit/Loss Tracking:** Fully automatic updates via API  
-- **Historical Trend Analysis:** 365-day portfolio value trend  
-- **Scalability & Customization:** Up to 600 coins; slicers & filters  
-- **Error Reduction & Time Saving:** Automated DAX calculations  
-- **Market Opportunity Identification:** Charts highlight coins with strong momentum  
+- 💼 **Diversified Portfolio:** 17+ coins reduce risk & volatility  
+- 📈 **Real-Time Profit/Loss Tracking:** Fully automatic updates via API  
+- 📊 **Historical Trend Analysis:** 365-day portfolio value trend  
+- ⚡ **Scalability & Customization:** Up to 600 coins; slicers & filters  
+- ✅ **Error Reduction & Time Saving:** Automated DAX calculations  
+- 🔍 **Market Opportunity Identification:** Charts highlight coins with strong momentum  
 
 ---
 
@@ -76,17 +76,20 @@ Crypto investors faced several challenges before this dashboard:
 
 ## 🔑 Conclusion  
 This **Crypto Portfolio Dashboard** **transforms portfolio management** by combining:  
-- **💯 Fully Automatic Real-Time Data**  
-- **📈 Automated Historical Tracking**  
-- **💰 INR-Based Metrics**  
-- **📊 Advanced Analytics**  
+
+- 💯 Fully Automatic Real-Time Data  
+- 📈 Automated Historical Tracking  
+- 💰 INR-Based Metrics  
+- 📊 Advanced Analytics  
 
 Investors can **track portfolio evolution**, make **data-driven decisions**, and manage crypto assets **efficiently and accurately**.  
-**🏅 Built for a real client from Uttarakhand.**
+
+🏅 **Built for a real client from Uttarakhand**  
 
 ---
 
 ✨ **Made with ❤️ and Power BI by Preetam Rana**
+
 
 
 
